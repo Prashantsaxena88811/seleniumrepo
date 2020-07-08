@@ -22,7 +22,7 @@ public class CommonActions extends TestBase {
 				System.out.println("Tab Closed");
 			}
 		} else {
-			System.out.println("No Opportunities Tab's Found common Actions ");
+			System.out.println("No Opportunities Tab's Found ");
 		}
 	}
 
